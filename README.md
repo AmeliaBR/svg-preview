@@ -2,8 +2,11 @@ SVG Preview for Brackets
 ========================
 <aside style="background-color:lightyellow; border: solid red;">
 This is a fork used for testing out new features or bug fixes.  For the official, stable version see [Peter Flynn's repo](https://github.com/peterflynn/svg-preview).
-</aside>
 
+**The preview is only recommended for simple SVG graphics; it is not secure when using complex SVG applications with scripts.**
+
+The original readme follows:
+</aside>
 
 Adds an inline live preview panel when editing SVG files. The preview updates in real time as you type. Works great with [Everyscrub](https://github.com/peterflynn/everyscrub)!
 

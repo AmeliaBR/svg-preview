@@ -3,7 +3,8 @@
     "title": "SVG Preview - Experimental",
     "homepage": "https://github.com/AmeliaBR/svg-preview",
     "author": "Peter Flynn",
-    "version": "1.2.0",
+    "contributors": ["Amelia Bellamy-Royds", "Peter Flynn"],
+    "version": "1.2.1",
     "engines": { "brackets": ">=0.44" },
     "description": "Live preview SVG files in an inline panel while you edit them. Click in SVG to select corresponding code."
 }
